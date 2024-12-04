@@ -16,6 +16,10 @@ Mensaje de prueba enviado desde nuestro broker hacia nuestro proyecto android
 Mensaje recibido
 ![image](https://github.com/user-attachments/assets/10d52659-5597-4098-ad56-8efd5ea36e18)
 
+Conexión con el broker mqtt
+![image](https://github.com/user-attachments/assets/3bcfa74b-36a6-4ed5-9e40-f801c0103212)
+
+
 
 implementación firebase
 Contamos con una entrada en la cual tenemos espacios para llenar y un botón para listar los datos. 
@@ -32,8 +36,11 @@ Clase firebase
 ![image](https://github.com/user-attachments/assets/0c6a3045-f466-45fa-bbd2-c9090e381dd3)
 
 Desconozco el por qué no habrá funcionado, aun teniendo toas las dependencias e implementaciones, quizás solamente fue
-inexperiencia.
+inexperiencia. También borrando la colección desde firebase console no funcionó.
 
+diferentes base de datos para tratar de hacer 100% funcional el proyecto
+
+![image](https://github.com/user-attachments/assets/edf4cdd7-948f-4fa1-b037-3535c806078e)
 
 
 

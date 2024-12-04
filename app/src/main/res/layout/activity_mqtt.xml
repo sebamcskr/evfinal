@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="45dp">
+    <!-- Campo de texto para ingresar datos -->
+    <EditText
+        android:id="@+id/editTextMessage"
+        android:layout_width="321dp"
+        android:layout_height="118dp"
+        android:hint="Ingresa un mensaje" />
+    <!-- Botón para enviar el mensaje -->
+    <Button
+        android:id="@+id/buttonPublish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Publicar" />
+    <!-- Label para mostrar los datos -->
+    <TextView
+        android:id="@+id/textViewStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="Estado: "
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/textViewReceived"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:text="Recibido: "
+        android:textSize="16sp" />
+</LinearLayout>

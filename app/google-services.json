@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245260423082",
+    "project_id": "fir-eve-667ba",
+    "storage_bucket": "fir-eve-667ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245260423082:android:540c401a5d76072f47e5d3",
+        "android_client_info": {
+          "package_name": "com.example.evfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsahVNzVR8VE9KveT1I6urk4zh0HO5bmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
